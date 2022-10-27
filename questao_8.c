@@ -52,7 +52,7 @@ int main()
         printf("\n");
     }
     else{
-        printf("Não foi possível encontrar uma solução única\n");
+        printf("Não foi possível encontrar uma solução\n");
     }
 
     return 0;
